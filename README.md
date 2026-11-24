@@ -17,7 +17,7 @@ Every sprite and tile in this game was custom-drawn pixel by pixel in the MakeCo
 | <img src="./hero.png" width="64"/> | **Red-Hat Hero** | **Player Character:** A brave adventurer wearing a red hat and outfit. Controlled by the player to run and jump across platforms. |
 | <img src="./monster.png" width="64"/> | **Monster** | **AI Enemy:** A round pink monster with red feet (inspired by Kirby) programmed with autonomous movement to challenge the player. |
 | <img src="./cloud.png" width="64"/> | **Sky-Blue Cloud** | **Background Art:** Hand-drawn fluffy clouds outlined in bright sky-blue floating against a dark night sky. |
-| <img src="./ground.png" width="64"/> | **Grass & Dirt Tile** | **Terrain / Wall:** Multi-layered green grass and brown dirt tiles that form platforms, hills, and jumpable cliffs. |
+| <img src="./blink.png" width="64"/> | **Eye-Blinking Effect** | **Custom Animation:** Added frame-by-frame eye-blinking animation to bring the characters to life with natural expressions! (with blink guage as orange bar) |
 
 ---
 
