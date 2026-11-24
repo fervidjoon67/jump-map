@@ -1,6 +1,6 @@
 # 🎮 123123
 
-> 🚀 **Click the button above to play my game directly in your web browser!**  
+> 🚀 **Click the link below to play my game directly in your web browser!**  
 > Direct Link: [https://arcade.makecode.com/S26547-42850-88562-94498](https://arcade.makecode.com/S26547-42850-88562-94498)
 
 
