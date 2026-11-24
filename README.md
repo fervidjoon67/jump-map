@@ -8,7 +8,10 @@ A 2D side-scrolling platformer game built with **Microsoft MakeCode Arcade**! �
 Created by a 2nd-grade elementary school developer, this project features hand-drawn pixel art, multi-stage progression, custom enemy AI, screen-transition functions, and loop-based game mechanics.
 
 ## 🖼️ Gameplay Screenshot
-![Gameplay Screenshot](./gameplay.png)
+![Gameplay Screenshot](./1.png)
+![Gameplay Screenshot](./2.png)
+![Gameplay Screenshot](./3.png)
+![Gameplay Screenshot](./4.png)
 
 ---
 
