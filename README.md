@@ -5,7 +5,7 @@
 
 
 A 2D side-scrolling platformer game built with **Microsoft MakeCode Arcade**! 🕹️✨  
-Created by a 2nd-grade elementary school developer, this project features hand-drawn pixel art, multi-stage progression, custom enemy AI, screen-transition functions, and loop-based game mechanics.
+Created by a 2nd-grade elementary school developer (ME!!!), this project features hand-drawn pixel art, multi-stage progression, custom enemy AI, screen-transition functions, and loop-based game mechanics.
 
 ## 🖼️ Gameplay Screenshot
 ![Gameplay Screenshot](./1.png)
@@ -56,7 +56,7 @@ This game goes beyond basic movement by using structured coding concepts:
 ## 💻 Development Environment
 * **Engine:** [Microsoft MakeCode Arcade](https://makecode.com)
 * **Core Concepts Used:** Custom Functions, `for` Loops, Enemy AI Logic, Tilemap Collisions, Gravity & Velocity Physics
-* **Developer:** 2nd Grade Elementary School Student 👦👧
+* **Developer:** 2nd Grade Elementary School Student (ME!!) 👦👧
 
 ---
 > 💡 **GitHub Upload Checklist:** 
